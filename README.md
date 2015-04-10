@@ -4,7 +4,7 @@
     	<div class="h1">
     		<div class="container">
     			<div>
-    				<h1>Pat Swifka> </h1>
+    				<h1>Pat Swifka</h1>
     				<li>1816 Colvin Ave.</li>
     				<li>St. Paul, MN 55116</li>
     				<li>(651) 292-0045  (612) 269-6841 cell</l1>
