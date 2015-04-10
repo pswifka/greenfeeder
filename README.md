@@ -15,7 +15,7 @@
     					<p>Highly-focused video, television and radio spot Producer with extensive experience in an advertising agency environment and on a freelance basis along with experience in longer formats.  Proven ability to deliver high-quality work on time, within budget and with positive results.  Skills include problem solving, process streamlining, leadership, fostering a positive working environment and teamwork.</p>
     				</div>
     				<div>
-    					<l1>Project Management • Strong Communication & Organization 
+    					<l1>Project Management • Strong Communication & Organization • 
   Effective Negotiator • Process Improvement</l1>
 </div>
 <div>
